@@ -1,0 +1,403 @@
+{
+	"Version": 3,
+	"Parameters": [
+		{
+			"Id": "ParamAngleX",
+			"GroupId": "ParamGroup4",
+			"Name": "角度 X"
+		},
+		{
+			"Id": "ParamAngleY",
+			"GroupId": "ParamGroup4",
+			"Name": "角度 Y"
+		},
+		{
+			"Id": "ParamAngleZ",
+			"GroupId": "ParamGroup4",
+			"Name": "角度 Z"
+		},
+		{
+			"Id": "ParamBreath",
+			"GroupId": "ParamGroup4",
+			"Name": "呼吸"
+		},
+		{
+			"Id": "ParamBodyAngleY",
+			"GroupId": "ParamGroup4",
+			"Name": "身体旋转　Y"
+		},
+		{
+			"Id": "FP_Y2",
+			"GroupId": "ParamGroup2",
+			"Name": "FP_ABXY"
+		},
+		{
+			"Id": "FP_RB",
+			"GroupId": "ParamGroup2",
+			"Name": "FP_RT"
+		},
+		{
+			"Id": "FP_A",
+			"GroupId": "ParamGroup2",
+			"Name": "FP_A"
+		},
+		{
+			"Id": "FP_B",
+			"GroupId": "ParamGroup2",
+			"Name": "FP_B"
+		},
+		{
+			"Id": "FP_X",
+			"GroupId": "ParamGroup2",
+			"Name": "FP_X"
+		},
+		{
+			"Id": "FP_Y",
+			"GroupId": "ParamGroup2",
+			"Name": "FP_Y"
+		},
+		{
+			"Id": "FP_Dpad",
+			"GroupId": "ParamGroup2",
+			"Name": "FP_Dpad"
+		},
+		{
+			"Id": "FP_LB",
+			"GroupId": "ParamGroup2",
+			"Name": "FP_LT"
+		},
+		{
+			"Id": "FP_Dpad_Up",
+			"GroupId": "ParamGroup2",
+			"Name": "FP_Dpad_Up"
+		},
+		{
+			"Id": "FP_Dpad_Down",
+			"GroupId": "ParamGroup2",
+			"Name": "FP_Dpad_Down"
+		},
+		{
+			"Id": "FP_Dpad_Left",
+			"GroupId": "ParamGroup2",
+			"Name": "FP_Dpad_Left"
+		},
+		{
+			"Id": "FP_Dpad_Right",
+			"GroupId": "ParamGroup2",
+			"Name": "FP_Dpad_Right"
+		},
+		{
+			"Id": "FP_toView",
+			"GroupId": "ParamGroup2",
+			"Name": "FP_toView"
+		},
+		{
+			"Id": "FP_toMenu",
+			"GroupId": "ParamGroup2",
+			"Name": "FP_toMenu"
+		},
+		{
+			"Id": "Xbox_LB",
+			"GroupId": "ParamGroup3",
+			"Name": "Xbox_LB"
+		},
+		{
+			"Id": "Xbox_LT",
+			"GroupId": "ParamGroup3",
+			"Name": "Xbox_LT"
+		},
+		{
+			"Id": "Xbox_LS_X",
+			"GroupId": "ParamGroup3",
+			"Name": "Xbox_LS_X"
+		},
+		{
+			"Id": "Xbox_LS_Y",
+			"GroupId": "ParamGroup3",
+			"Name": "Xbox_LS_Y"
+		},
+		{
+			"Id": "Xbox_LS_B",
+			"GroupId": "ParamGroup3",
+			"Name": "Xbox_LS_B"
+		},
+		{
+			"Id": "Xbox_Dpad_Up",
+			"GroupId": "ParamGroup3",
+			"Name": "Xbox_Dpad_Up"
+		},
+		{
+			"Id": "Xbox_Dpad_Down",
+			"GroupId": "ParamGroup3",
+			"Name": "Xbox_Dpad_Down"
+		},
+		{
+			"Id": "Xbox_Dpad_Left",
+			"GroupId": "ParamGroup3",
+			"Name": "Xbox_Dpad_Left"
+		},
+		{
+			"Id": "Xbox_Dpad_Right",
+			"GroupId": "ParamGroup3",
+			"Name": "Xbox_Dpad_Right"
+		},
+		{
+			"Id": "Xbox_View",
+			"GroupId": "ParamGroup3",
+			"Name": "Xbox_View"
+		},
+		{
+			"Id": "Xbox_RB",
+			"GroupId": "ParamGroup3",
+			"Name": "Xbox_RB"
+		},
+		{
+			"Id": "Xbox_RT",
+			"GroupId": "ParamGroup3",
+			"Name": "Xbox_RT"
+		},
+		{
+			"Id": "Xbox_RS_X",
+			"GroupId": "ParamGroup3",
+			"Name": "Xbox_RS_X"
+		},
+		{
+			"Id": "Xbox_RS_Y",
+			"GroupId": "ParamGroup3",
+			"Name": "Xbox_RS_Y"
+		},
+		{
+			"Id": "Xbox_RS_B",
+			"GroupId": "ParamGroup3",
+			"Name": "Xbox_RS_B"
+		},
+		{
+			"Id": "Xbox_A",
+			"GroupId": "ParamGroup3",
+			"Name": "Xbox_A"
+		},
+		{
+			"Id": "Xbox_B",
+			"GroupId": "ParamGroup3",
+			"Name": "Xbox_B"
+		},
+		{
+			"Id": "Xbox_X",
+			"GroupId": "ParamGroup3",
+			"Name": "Xbox_X"
+		},
+		{
+			"Id": "Xbox_Y",
+			"GroupId": "ParamGroup3",
+			"Name": "Xbox_Y"
+		},
+		{
+			"Id": "Xbox_Menu",
+			"GroupId": "ParamGroup3",
+			"Name": "Xbox_Menu"
+		},
+		{
+			"Id": "Paramlr",
+			"GroupId": "ParamGroup5",
+			"Name": "两侧按下"
+		},
+		{
+			"Id": "Paramlr2",
+			"GroupId": "ParamGroup5",
+			"Name": "上下按下"
+		},
+		{
+			"Id": "ParamEyeLOpen",
+			"GroupId": "ParamGroup",
+			"Name": "左眼 开合"
+		},
+		{
+			"Id": "ParamEyeLSmile",
+			"GroupId": "ParamGroup",
+			"Name": "左眼 微笑"
+		},
+		{
+			"Id": "ParamEyeROpen",
+			"GroupId": "ParamGroup",
+			"Name": "右眼 开合"
+		},
+		{
+			"Id": "ParamEyeRSmile",
+			"GroupId": "ParamGroup",
+			"Name": "右眼 微笑"
+		},
+		{
+			"Id": "ParamEyeBallX",
+			"GroupId": "ParamGroup",
+			"Name": "眼珠 X"
+		},
+		{
+			"Id": "ParamEyeBallY",
+			"GroupId": "ParamGroup",
+			"Name": "眼珠 Y"
+		},
+		{
+			"Id": "ParamEyeBallForm",
+			"GroupId": "ParamGroup",
+			"Name": "眼珠的放大/缩小*"
+		},
+		{
+			"Id": "ParamBrowLY",
+			"GroupId": "ParamGroup",
+			"Name": "左眉上下"
+		},
+		{
+			"Id": "ParamBrowRY",
+			"GroupId": "ParamGroup",
+			"Name": "右眉   上下"
+		},
+		{
+			"Id": "ParamBrowLAngle",
+			"GroupId": "ParamGroup",
+			"Name": "左眉　角度"
+		},
+		{
+			"Id": "ParamBrowRAngle",
+			"GroupId": "ParamGroup",
+			"Name": "右眉　角度"
+		},
+		{
+			"Id": "ParamBrowLForm",
+			"GroupId": "ParamGroup",
+			"Name": "左眉　変形"
+		},
+		{
+			"Id": "ParamBrowRForm",
+			"GroupId": "ParamGroup",
+			"Name": "右眉　変形"
+		},
+		{
+			"Id": "ParamMouthForm",
+			"GroupId": "ParamGroup",
+			"Name": "嘴　变形"
+		},
+		{
+			"Id": "ParamMouthOpenY",
+			"GroupId": "ParamGroup",
+			"Name": "嘴　张开和闭合"
+		},
+		{
+			"Id": "Muyu_switch",
+			"GroupId": "ParamGroup6",
+			"Name": "木鱼开关"
+		},
+		{
+			"Id": "Param2",
+			"GroupId": "ParamGroup6",
+			"Name": "右臂"
+		}
+	],
+	"ParameterGroups": [
+		{
+			"Id": "ParamGroup4",
+			"GroupId": "",
+			"Name": "联动面捕"
+		},
+		{
+			"Id": "ParamGroup2",
+			"GroupId": "",
+			"Name": "手指位置"
+		},
+		{
+			"Id": "ParamGroup3",
+			"GroupId": "",
+			"Name": "按键状态"
+		},
+		{
+			"Id": "ParamGroup5",
+			"GroupId": "",
+			"Name": "物理参数"
+		},
+		{
+			"Id": "ParamGroup",
+			"GroupId": "",
+			"Name": "头"
+		},
+		{
+			"Id": "ParamGroup6",
+			"GroupId": "",
+			"Name": "敲木鱼"
+		}
+	],
+	"Parts": [
+		{
+			"Id": "Part17",
+			"Name": "敲木鱼2.psd"
+		},
+		{
+			"Id": "Part15",
+			"Name": "敲木鱼1.psd"
+		},
+		{
+			"Id": "Part9",
+			"Name": "R"
+		},
+		{
+			"Id": "Part8",
+			"Name": "R"
+		},
+		{
+			"Id": "Part",
+			"Name": "手-前"
+		},
+		{
+			"Id": "Part2",
+			"Name": "手柄"
+		},
+		{
+			"Id": "Part5",
+			"Name": "手-后"
+		},
+		{
+			"Id": "Part14",
+			"Name": "猴子1.psd"
+		},
+		{
+			"Id": "Part16",
+			"Name": "敲木鱼"
+		},
+		{
+			"Id": "Part10",
+			"Name": "敲木鱼"
+		},
+		{
+			"Id": "Part3",
+			"Name": "摇杆R"
+		},
+		{
+			"Id": "Part4",
+			"Name": "摇杆L"
+		},
+		{
+			"Id": "Part11",
+			"Name": "猴子"
+		},
+		{
+			"Id": "Part7",
+			"Name": "LS"
+		},
+		{
+			"Id": "Part6",
+			"Name": "LS"
+		},
+		{
+			"Id": "Part12",
+			"Name": "左眼"
+		},
+		{
+			"Id": "Part13",
+			"Name": "右眼"
+		}
+	],
+	"CombinedParameters": [
+		[
+			"ParamMouthForm",
+			"ParamMouthOpenY"
+		]
+	]
+}
